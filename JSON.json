@@ -1,0 +1,13 @@
+{"Instructors":[
+    {
+        "name": "Shira Schwartz",
+        "title": "Instructor",
+        "location": "Brooklyn, NY"
+        
+    },
+    {
+        "name": "Yitzchak Levy",
+        "title": "Instructor",
+        "location":"Yerushalayim, Israel"
+    }
+]}

@@ -1,0 +1,32 @@
+
+/*form*/
+
+ input {
+    width: 12em;
+    margin-left: 1em;
+    margin-bottom: .5em;
+    
+}
+span {
+	color: red;
+	margin-left: .5em;
+}
+ #reset #join {
+	width: 7.5em;
+	color:black;
+	background:lightgrey;
+	border 1px solid grey;
+}
+ #private, #group, #swim, #beg, #med, #prof{
+	width: 1em;
+}
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 5em auto;
+    width: 75%;
+    padding: 0 1em 1em;
+    text-align:center;
+   	border: 3px solid blue;
+    
+}
